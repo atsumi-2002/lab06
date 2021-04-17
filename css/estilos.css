@@ -1,0 +1,24 @@
+@charset "utf-8";
+body{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background:url("../img/wallpaper.jpg");
+    background-size: cover;
+}
+#form{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+#form form input{
+    width: 100%;
+    height: 35px;
+}
+form button{
+    width: 50%;
+    height: 35px;
+}
+table,td{
+    border: solid royalblue 1px;
+}
